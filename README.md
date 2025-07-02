@@ -1,12 +1,27 @@
-# React + Vite
+# 🎮 Tic-Tac-Toe - Juego en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(![Captura](https://github.com/user-attachments/assets/d320ce45-a381-42b0-84c9-245d5475f0db)
+)
 
-Currently, two official plugins are available:
+Una versión moderna y visualmente atractiva del clásico **Tic-Tac-Toe (Tres en línea)**, desarrollada con **React**. Este proyecto permite que dos jugadores participen localmente, eligiendo su símbolo (❌ o ⭕) y turnándose para jugar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React
+- 🎨 CSS personalizado (estilo neón moderno)
+- 🧠 JavaScript (lógica del juego)
+- 📁 Vite
+
+---
+
+## 🕹️ Características
+
+- Interfaz dinámica y amigable
+- Opción para cambiar los símbolos de los jugadores
+- Detección automática de victoria o empate
+- Diseño responsive
+- Animaciones y efectos de neón para una experiencia visual única
+
+---
